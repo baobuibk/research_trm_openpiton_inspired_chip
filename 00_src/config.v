@@ -1,0 +1,12 @@
+`timescale 1ps/1ps
+`define NO_SCAN
+`define PITON_DPI
+`define PITON_PICO
+`define USE_FAKE_PLL_AND_CLKMUX
+`define USE_FAKE_IOS
+`define RTL_TILE0
+`define RTL_PICO0
+`define RTL_TILE1
+`define RTL_PICO1
+`define RTL_TILE2
+`define RTL_PICO2
