@@ -1,0 +1,2 @@
+Command Line: /tools/eda/synopsys/verdi/W-2024.09-SP1/platform/LINUXAMD64/bin/Novas -2012 -ntb_opts uvm-1.2 -ssv -ssy -ssz -sv -f flist.f -ssf wave.fsdb -top cmp_top
+uname(Linux north.doelab.site 4.18.0-553.40.1.el8_10.x86_64 #1 SMP Thu Feb 13 13:28:49 UTC 2025 x86_64)
